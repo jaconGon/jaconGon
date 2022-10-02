@@ -1,0 +1,4 @@
+-Repositorio de Leonardo Jacon Gonçalves
+- estudante de Ciencas da Computação na Universidade Federal de Alfenas
+- espero postar minha evolução e a criação de codigos
+- basico de c/c++
